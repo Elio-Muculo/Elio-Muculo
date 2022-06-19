@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on [Controle Iluminação](https://github.com/Elio-Muculo/Controle_iluminacao)
+- 🔭 I’m currently working on [Flutter](https://github.com/Elio-Muculo/Flutter_Repo)
 
-- 🌱 I’m currently learning **react.js and spring boot**
+- 🌱 I’m currently learning **Android | Flutter **
 
 - 💬 Ask me about **technologies**
 
