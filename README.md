@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Flutter 100 Days Leaning](https://github.com/Elio-Muculo/Flutter_Repo)
 
-- 🌱 I’m currently learning **Android | Flutter**
+- 🌱 **Android | Flutter | Node.js Developer**
 
 - 💬 Ask me about **technologies**
 
