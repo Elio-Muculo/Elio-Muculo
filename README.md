@@ -7,9 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Flutter 100 Days Leaning](https://github.com/Elio-Muculo/Flutter_Repo)
-
-- 🌱 **Laravel | Flutter | Node.js Developer**
+- 🔭 I’m currently working on [QuickStart Jetpack Compose](https://github.com/Elio-Muculo/quickstart-compose)
 
 - 💬 Ask me about **technologies**
 
