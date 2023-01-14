@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elliot.Dev</h1>
+<h1 align="center">Hi 👋, I'm Elliot</h1>
 <h3 align="center">A passionate Android & backend developer from Maputo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elio-muculo&label=Profile%20views&color=0e75b6&style=flat" alt="elio-muculo" /> </p>
